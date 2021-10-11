@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXylibExseBpt1QSQEzxpvNOM11hoCsvmKnU3d7rtbP9Ar/3U6WCftnfzNGKju1Pp49bMMu1EHVj0pnV9/b5xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\ImplementingAsp.NetCoreIdentity\\Shared.Services\\Shared.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
